@@ -1,0 +1,58 @@
+body {
+    background: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 60px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: lighter;
+}
+
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 60px;
+}
+
+.hero-unit h1 {
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.navbar .nav > li > a {
+    text-shadow: none;
+    color: #fff;
+}
+
+#link-list > .row {
+    padding: 5px 0 5px 0;
+}
+
+#link-list > .row > a {
+    width: 100%;
+}
+
+.q-and-a,
+.project,
+.employment {
+    padding: 10px 0 10px 0;
+}
+
+.project-date,
+.employment-date {
+    float: right;
+}
+
+.question,
+.project-name,
+.employment-title {
+    font-weight: bold;
+}
